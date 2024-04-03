@@ -1,7 +1,7 @@
 ## About me
 
 <br>
-<p>I have 25 years old and I am a developer. I live in Rio de Janeiro, Brazil. I like nerd stuff, arts and technologies. Currently working as a Front-end Developer at Grupo Soma! <strong>Welcome! :)</strong> </p>
+<p>I have 26 years old and I am a developer. I live in Rio de Janeiro, Brazil. I like nerd stuff, arts and technologies. Currently working as a Front-end Developer at Grupo Soma! <strong>Welcome! :)</strong> </p>
 <br>
 
 ## Main Skills
