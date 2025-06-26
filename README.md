@@ -1,9 +1,3 @@
-## About me
-
-<br>
-<p>I have 26 years old and I am a developer. I live in Rio de Janeiro, Brazil. I like nerd stuff, arts and technologies. Currently working as a Software Engineer at Uol Edtech | Passei Direto | Studenta! <strong>Welcome! :)</strong> </p>
-<br>
-
 ## Contact Me
 
 <p align="left">
